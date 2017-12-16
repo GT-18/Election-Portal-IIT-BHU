@@ -1,0 +1,231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"login"
+			],
+			[
+				"re",
+				"Register"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"Use",
+				"UserCreationForm\tclass"
+			],
+			[
+				"U",
+				"UserCreationForm\tclass"
+			],
+			[
+				"f",
+				"forms\tmodule"
+			],
+			[
+				"co",
+				"contrib\tmodule"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"au",
+				"auth_views\tmodule"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"in",
+				"int"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: fastio"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/templates/Election_Portal/register.html",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/viberr.sublime-project",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/models.py",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/templates/Election_Portal/template.html",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/templates/Election_Portal/login.html",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/urls.py",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/forms.py",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/static/Election_Portal/css/stylelogin.css",
+		"/home/govinda/Desktop/Election-Portal-master/Election_Portal/views.py",
+		"/home/govinda/Desktop/Election-Portal-master/ElectionPortal/urls.py",
+		"/home/govinda/Desktop/Election-Portal-master/ElectionPortal/settings.py",
+		"/home/govinda/.config/sublime-text-3/Packages/User/mod_functions.sublime-snippet",
+		"/home/govinda/.config/sublime-text-3/Packages/User/base_template.sublime-snippet",
+		"/home/govinda/Desktop/testprograms/untitled.cpp",
+		"/home/govinda/.config/sublime-text-3/Packages/User/CPP.sublime-build",
+		"/home/govinda/Desktop/testprograms/1.cpp"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"login",
+			"lo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/CPP.sublime-build",
+	"project": "viberr.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
